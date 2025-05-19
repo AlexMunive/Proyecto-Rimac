@@ -2,6 +2,8 @@
 
 Este proyecto es un sistema innovador que te ofrece los mejores planes de seguro personalizados según tu edad y las últimas ofertas del mercado.
 
+![Estructura de Carpetas](image-1.png)
+
 **Características Principales:**
 
 * **Cotización Inteligente:** Un formulario validado te guiará para obtener las ofertas más adecuadas para ti.
@@ -17,7 +19,7 @@ Este proyecto es un sistema innovador que te ofrece los mejores planes de seguro
 
 ## 📂 Arquitectura del Proyecto: Estructura por Tipo de Fichero
 
-![Estructura de Carpetas](image-1.png)
+![alt text](image-2.png)
 
 ---
 
@@ -74,7 +76,6 @@ Este proyecto es un sistema innovador que te ofrece los mejores planes de seguro
 
 ## 📂 Estructura de Carpetas:
 
-![alt text](image-2.png)
 
 
 ![Estructura Detallada](image.png)
