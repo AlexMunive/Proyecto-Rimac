@@ -2,6 +2,8 @@
 
 Este proyecto es un sistema innovador que te ofrece los mejores planes de seguro personalizados según tu edad y las últimas ofertas del mercado.
 
+[Visitar Proyecto Rímac](https://proyecto-rimac.netlify.app/)
+
 ![Estructura de Carpetas](image-1.png)
 
 **Características Principales:**
