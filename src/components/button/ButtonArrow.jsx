@@ -1,7 +1,7 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
 
-const Button = ({ruta}) => {
+const ButtonArrow = ({ruta}) => {
 
   
   const navigate = useNavigate();
@@ -22,4 +22,4 @@ const Button = ({ruta}) => {
   )
 }
 
-export default Button
+export default ButtonArrow

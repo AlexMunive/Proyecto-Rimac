@@ -5,8 +5,9 @@ import Section from "../page/quotation/Section";
 import Plan from "../page/plan/Plan";
 import { useContext } from "react";
 import UserContext from "../hooks/Context";
-import Button from "../components/Button/Button";
+
 import Stage from "../components/stage/Stage";
+import ButtonArrow from "../components/button/ButtonArrow";
 
 
 const Main = () => {
@@ -22,7 +23,7 @@ const Main = () => {
         <Stage />
          <div className="ml-5 md:max-w-[600px] md:flex md:justify-center mt-5">
 
-        <Button ruta={"/"}/>
+        <ButtonArrow ruta={"/"}/>
          </div>
     
         <Section />

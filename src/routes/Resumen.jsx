@@ -3,8 +3,9 @@ import Header from '../components/header/Header'
 import Footer from '../components/footer/Footer'
 import UserContext from '../hooks/Context';
 import Details from '../page/details/Details';
-import Button from '../components/Button/Button';
+
 import Stage from '../components/stage/Stage';
+import ButtonArrow from '../components/button/ButtonArrow';
 
 
 const Resumen = () => {
@@ -21,7 +22,7 @@ const Resumen = () => {
     <div className="flex flex-col items-start w-full max-w-[900px] mx-auto px-4">
       <div className='ml-7 mt-3'>
 
-      <Button ruta={"/cotizacion"} />
+      <ButtonArrow ruta={"/cotizacion"} />
       </div>
       <Details />
     </div>
