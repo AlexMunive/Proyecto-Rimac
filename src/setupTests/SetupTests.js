@@ -1,0 +1,1 @@
+setupFiles: ['src/setupTests.js']
